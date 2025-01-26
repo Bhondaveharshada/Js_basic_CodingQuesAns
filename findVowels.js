@@ -16,7 +16,7 @@ const findVowels = (str) =>{
   return [...new Set(vowelArr)]
 }
 
-//2. way
+//2. way..using includes method
 
 const FindVowels = (str) =>{
     let vowels = [ 'a', 'e', 'i','o','u']
